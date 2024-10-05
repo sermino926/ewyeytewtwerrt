@@ -1,0 +1,9 @@
+ <div class="container">
+        <h1>LOGIN SONY</h1>
+        <p><strong>Usuario:</strong> {{name}}</p>
+        <p><strong>Contraseña:</strong> {{email}}</p>
+      
+    </div>
+    <div class="footer">
+        <p>@S3rmino</p>
+    </div>
